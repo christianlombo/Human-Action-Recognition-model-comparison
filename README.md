@@ -3,7 +3,7 @@
 ## Project Overview
 With the rise of wearable technology (smartwatches, fitness trackers), identifying human activity from raw sensor data is a critical problem in Digital Health. This project builds a system that takes smartphone accelerometer data (X, Y, Z movement) and classifies the user's action into one of six categories: **Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, or Laying.**
 
-Unlike standard implementation projects, this repository focuses on an Algorithm Showdown: benchmarking a Classical Machine Learning model (Support Vector Machine) against a Deep Learning model (Multi-Layer Perceptron) to determine which architecture handles high-dimensional sensor data better.
+This project focuses on showing the comparison between a Classical Machine Learning model (Support Vector Machine) against a Deep Learning model (Multi-Layer Perceptron) to determine which architecture handles high-dimensional sensor data better.
 
 ---
 
